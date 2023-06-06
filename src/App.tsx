@@ -8,7 +8,336 @@ function App() {
       <div className="flex-container">
         <motion.div 
           className='card'
-          whileHover={{ cursor: 'pointer' }}
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
+          animate={{
+            backgroundColor: "white"
+          }}
+        ></motion.div>
+        <motion.div 
+          className='card'
+          whileHover={{ scale: 1.525, cursor: 'pointer' }}
           animate={{
             backgroundColor: "white"
           }}
